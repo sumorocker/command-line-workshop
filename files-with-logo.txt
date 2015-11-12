@@ -1,0 +1,2 @@
+README.md: * Find all the files in the DecodeMTL project that have the word "logo" in the file name
+README.md: * Take the output of the command to a file called `files-with-logo.txt`
