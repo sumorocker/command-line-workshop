@@ -1,0 +1,11 @@
+../decodemtl/src/application-exercise/index.html:      <a href="https://www.codecademy.com/tracks/javascript">Complete CodeCademy's JavaScript track</a>. This will
+../decodemtl/src/on-demand/index.html:<section class="javascript-frontend">
+../decodemtl/src/on-demand/index.html:        <h3><a target="_blank" href="http://www.codecademy.com/tracks/javascript">Codecademy's JavaScript track</a></h3>
+../decodemtl/src/on-demand/index.html:          <a target="_blank" href="http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/">Understanding
+../decodemtl/src/on-demand/index.html:          <a target="_blank" href="https://functionwhatwhat.com/introduction-to-promises-in-javascript/">Introduction to Promises in
+../decodemtl/src/_data/fulltime_learn.json:      "icon": "/assets/images/full-time/javascript.png",
+../decodemtl/src/_data/fulltime_learn_fr.json:      "icon": "/assets/images/full-time/javascript.png",
+../decodemtl/src/_layouts/default.html:        <a href="javascript:void(0)" class="main-nav__link">Courses</a>
+../decodemtl/src/_layouts/default_fr.html:        <a href="javascript:void(0)" class="main-nav__link">Cours</a>
+../decodemtl/README.md:* javascript/jquery
+Binary file ../decodemtl/.git/index matches
