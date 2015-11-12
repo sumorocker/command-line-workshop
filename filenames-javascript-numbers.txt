@@ -1,0 +1,8 @@
+../decodemtl/src/application-exercise/index.html
+../decodemtl/src/on-demand/index.html
+../decodemtl/src/_data/fulltime_learn.json
+../decodemtl/src/_data/fulltime_learn_fr.json
+../decodemtl/src/_layouts/default.html
+../decodemtl/src/_layouts/default_fr.html
+../decodemtl/README.md
+../decodemtl/.git/index
